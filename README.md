@@ -55,8 +55,14 @@ DIY kit includes
     │  INMP441  │   
     └───────────┘  
 ```
-
-## PCBA photo
+## PCB Assembly
+- Solder a pair of 20‑pin sockets to the PCB at the U1 position
+- Solder a pair of 3‑pin sockets to the PCB at the J30 and J31 position
+- Solder a pair of 20‑pin header on the YD-RP2040 board
+- Solder a pair of 3‑pin header on the INMP441 module
+- Mount the soldered YD‑RP2040 on the PCB at the designated U1 location
+- Mount the soldered INMP441 module on the PCB at the designated J30 and J30 locations
+- Ensure the final PCBA is assembled as depicted in the figure below
 [![pcba-photo](./doc/image/pcba-small.png)](https://github.com/teamprof/pico-audio-ml-audio-lamp/blob/main/doc/image/pcba-small.png)
 
 ---
